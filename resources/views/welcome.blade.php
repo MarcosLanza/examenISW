@@ -23,9 +23,22 @@
     <body class="antialiased">
         <div class="relative flex items-top justify-center min-h-screen bg-gray-100 dark:bg-gray-900 sm:items-center py-4 sm:pt-0">
             <div style="border: 1px solid">
-                <h1>
-                    Hola bienvenido a examen final ISW-811, by Marcos Lanza Sequeira
-                </h1>
+                <div class="">
+                    <h1 class="">
+                        Hola bienvenido a examen final ISW-811, by Marcos Lanza Sequeira
+                    </h1>
+                    <h2 class="" style="background-color: #718096;
+                    display: flex;
+                    justify-content: center;">
+                        <a href="/login">CLICK Login</a>
+                    </h2>
+                    <h2 style="background-color: #a0aec0;
+                     display: flex;
+                    justify-content: center;">
+                        <a href="/register">CLICK Register</a>
+                    </h2>
+                </div>
+                
             </div>
 
                 </div>
