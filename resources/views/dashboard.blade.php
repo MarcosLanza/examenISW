@@ -11,6 +11,12 @@
                 <div class="p-6 bg-white border-b border-gray-200">
                     You're logged in!
                 </div>
+                <div class="p-6 bg-white border-b border-gray-200">
+                   
+                    <h1>Hola  @auth
+                        {{Auth::user()->name}}
+                    @endauth, Bienvenido a la Pagina de Marcos LS, Examen ISW-811</h1>
+                </div>
             </div>
         </div>
     </div>
